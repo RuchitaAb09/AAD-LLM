@@ -6,3 +6,4 @@ torch
 torchaudio
 soundfile
 jupyter
+scikit-learn
